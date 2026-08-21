@@ -7,20 +7,10 @@
         {
             "path": "src",
             "name": "Source Code"
-        },
-        {
-            "path": "docs",
-            "name": "Documentation"
-        },
-        {
-            "path": ".github",
-            "name": "GitHub Configurations"
         }
     ],
     "settings": {
         "files.exclude": {
-            ".github": true,
-            "docs": true,
             "src": true
         }
     },
